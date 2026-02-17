@@ -1,0 +1,5 @@
+baseURL = "https://jasonw66.github.io/blog/"
+languageCode = "zh-cn"  # 或你的语言
+title='MyNewHugoSite'
+theme='ananke'
+
