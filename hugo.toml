@@ -1,5 +1,11 @@
 baseURL = "https://jasonw66.github.io/blog/"
-languageCode = "zh-cn"  # 或你的语言
-title='MyNewHugoSite'
-theme='ananke'
+languageCode = "zh-cn"
+title = "我的 Hugo 博客"
 
+[module]
+  [[module.imports]]
+    path = "github.com/gethinode/hinode"
+
+[params]
+  description = "这是我的个人博客"
+  author = "JasonW66"
