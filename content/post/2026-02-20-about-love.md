@@ -1,12 +1,9 @@
 ---
 layout:     post
-title:      "Authoring mathematical formulae"
-description: "Cleanwhite theme now has built-in support for authoring mathematical or chemical equations"
-excerpt: "The theme uses Hugo's embedded instance of the KaTeX display engine to render mathematical markup to HTML at build time."
+title:      "什么是“爱”"
+description: "爱会让人有极大的宽容度"
 date:    2025-07-06
-author: "Andreas Deininger"
 image: "/img/2018-05-23-service_2_service_auth/background.jpg"
-publishDate: 2025-07-06
 tags:
     - Math
     - KaTeX 
